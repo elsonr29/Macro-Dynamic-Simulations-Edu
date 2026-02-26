@@ -8,7 +8,7 @@ As implementações têm como base os modelos canônicos presentes nos principai
 
 ## 🛠️ Sumário de Modelos
 
-* **Product Variety Model (Romer):** Apresenta a simulação e exercícios relacionados ao modelo de crescimento endógeno de Paul Romer sobre inovação horizontal. O módulo foca na dinâmica de acumulação de conhecimento e no impacto da variedade de bens intermediários sobre o produto total.
+* **Product Variety Model (Romer):** Apresenta os fundamentos para a simulação do modelo de crescimento endógeno de inovação horizontal proposto por Romer. A estrutura da simulação segue a abordagem de Aghion e Howitt (2009, Cap. 5).
 
 ---
 
