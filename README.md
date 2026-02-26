@@ -12,7 +12,7 @@ As implementações têm como base os modelos canônicos presentes nos principai
 
 ---
 
-## 📚 Referências (APA Style)
+## 📚 Referências
 
 * **Acemoglu, D.** (2009). *Introduction to modern economic growth*. Princeton University Press.
 * **Aghion, P., & Durlauf, S.** (Eds.). (2005). *Handbook of economic growth*. Elsevier.
