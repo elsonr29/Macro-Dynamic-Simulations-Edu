@@ -26,4 +26,4 @@ As implementações têm como base os modelos canônicos presentes nos principai
 
 ## 💻 Requisitos e Instalação
 
-Para rodar as simulações no **VSCodium**, certifique-se de ter as extensões de suporte para sua linguagem de preferência instaladas.
+Para rodar as simulações no **VS Codium** ou **VS Code**, certifique-se de ter as extensões de suporte para sua linguagem de preferência instaladas.
